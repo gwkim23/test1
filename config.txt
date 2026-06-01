@@ -1,2 +1,3 @@
-ICDysDrì레: 010-1234-5678
-ICDì´ë©ì¼: gwkim23@testmail.com
+  연락처: 010-1234-5678
+  이메일: gwkim23@testmail.com
+  api_key: YOUR_API_KEY_HERE
